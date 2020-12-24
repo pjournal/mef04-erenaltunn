@@ -6,4 +6,4 @@
 
 * You may follow this link to reach Assignment 2 ➡️ [Assignment 2 - Energy Markets EDA](Assignment-2_EPIAS_EDA.html)
 
-* You may follow this link to reach Assignment 2 ➡️ [Assignment 2 - Energy Markets EDA](Assignment3_Spam_Email.html) 
+* You may follow this link to reach Assignment 3 ➡️ [Assignment 3 - Spam Email Prediction](Assignment3_Spam_Email.html) 
